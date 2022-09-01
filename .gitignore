@@ -1,0 +1,3 @@
+yahboomcar_visual/detection/frozen_inference_graph.pb
+yahboomcar_mediapipe/scripts/file/shape_predictor_68_face_landmarks.dat
+yahboomcar_slam/param/ORBvoc.txt
